@@ -1,0 +1,22 @@
+Evento de curso
+Uno de los negocios que están alrededor del itla (la rubia) requiere un sistema para registrar las ventas que hace en el dia a dia.
+ Requiere registrar las facturas con lo que vende. 
+ El profesor te ha recomendado ya que eres un(a) buen(a) estudiante, para que con tus 
+ conocimientos soluciones ese problema. Al momento de registrar una factura se deben imprimir los siguientes campos en la misma: 
+
+Fecha.
+Código del cliente (matrícula, si el cliente ya está registrado, cargará el nombre)
+nombre del cliente 
+Artículos: para cada artículo se digitará: Nombre, Cantidad, Precio y Total
+Total a pagar. 
+
+Comentario.
+Al momento de guardar la factura debe aparecer la opción para imprimir y salir el recibo para imprimir.
+
+Realice un diseño y propuesta funcional y precio, de algo que sea AGIL, que permita que el vendedor no pierda tiempo
+ y haga su factura sin dificultad. El dueño del negocio puede ver por dia la cantidad de facturas que se han realizado 
+ y el total de dinero cobrado.  Cada recibo debe tener un número único. 
+
+Por esta via va a entregar un unico PDF, con sus datos de contacto, la propueta, 
+(alguna pantalla), una cotizacion, el tiempo estimado,  la fuente de donde usted se guio para hacer la cotizacion y precios. 
+ Lo sube por esta via. 
